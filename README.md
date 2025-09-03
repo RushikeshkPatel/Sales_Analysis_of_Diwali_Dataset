@@ -1,4 +1,4 @@
-# 🛍️ Diwali Sales Data Analysis (Python, Pandas, Seaborn, Matplotlib
+# 🛍️ Diwali Sales Data Analysis (Python, Pandas, Seaborn, Matplotlib)
 
 ## 🔎 Project Overview  
 This project analyzes **Diwali Sales Data** to generate actionable insights that can help enhance customer experience and increase overall sales revenue.  
